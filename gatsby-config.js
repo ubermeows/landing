@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "ubermeows",
     author: "ubermeows",
-    description: ""
+    description: "L'alliance impromptue d'un dev back et front, parfois on code des trucs, parfois on mange des glaces."
   },
   plugins: [
     {
