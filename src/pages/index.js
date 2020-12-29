@@ -42,7 +42,7 @@ const IndexPage = () => {
           <div className="space-y-12 lg:grid lg:grid-cols-3 lg:gap-8 lg:space-y-0">
             <div className="space-y-5 sm:space-y-4">
               <h2 className="text-3xl font-extrabold text-white tracking-tight sm:text-4xl">À propos de nous</h2>
-              <p className="text-xl text-gray-300">Plus de <b>15 ans d'expérience</b> en développement mit à profit d'applications Web modernes propulsées par <b>Laravel / VueJS / TailwindCSS</b>.</p>
+              <p className="text-xl text-gray-300">Plus de <b>15 années d'expérience</b> en développement mises à profit d'applications Web modernes propulsées par <b>Laravel / VueJS / TailwindCSS</b>.</p>
               <p class="text-xl text-gray-300">Nous offrons une expertise en gestion &amp; développement de projets, déploiement & tests automatisés, analyse de code, UI/UX, performance & accessibilité.</p>
             </div>
             <div className="lg:col-span-2">
