@@ -14,12 +14,12 @@ module.exports = {
         ],
       },
     },
-    // {
-    //   resolve: "gatsby-plugin-google-analytics",
-    //   options: {
-    //     trackingId: "",
-    //   },
-    // },
+    {
+      resolve: "gatsby-plugin-google-analytics",
+      options: {
+        trackingId: "G-F823NYDPRN",
+      },
+    },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
