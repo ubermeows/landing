@@ -32,7 +32,7 @@ const IndexPage = () => {
           <div className="text-center">
             <img src="https://cdn.discordapp.com/emojis/773945464117657670.png?v=1" alt="" className="mx-auto rounded-lg" />
             <p className="text-4xl font-extrabold sm:text-5xl sm:tracking-tight lg:text-6xl text-white mt-3">Übermeows</p>
-            <p className="max-w-xl mt-5 mx-auto text-xl text-gray-300">L'alliance impromptue d'un dev back et front, parfois on code des trucs, parfois on mange des glaces.</p>
+            <p className="max-w-xl mt-5 mx-auto text-xl text-gray-300">L'alliance impromptue d'un dev back et front, parfois on code des trucs, souvent on mange des glaces.</p>
             <a href="mailto:contact@ubermeows.com" class="mt-6 inline-flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-full shadow-sm text-white bg-indigo-700 hover:bg-indigo-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
               Nous contacter
             </a>
